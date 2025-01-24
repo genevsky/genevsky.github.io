@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Associate Professor
+role: Associate Professor of Marketing and Consumer Neuroscience
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -40,7 +40,7 @@ profiles:
   #- icon: brands/github
   #  url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: www.linkedin.com/in/alex-genevsky
+    url: https://www.linkedin.com/in/alex-genevsky
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=GPx6as0AAAAJ&hl=en
   - icon: academicons/orcid
