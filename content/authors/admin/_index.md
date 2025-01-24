@@ -10,8 +10,8 @@ first_name: Alex
 last_name: Genevsky
 
 # Status emoji
-status:
-  icon: ☕️
+#status:
+#  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -172,4 +172,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Alex Genevsky is an Associate Professor of Marketing and Consumer Neuroscience at the Rotterdam School of Management, Erasmus University. He received his Ph.D. in Psychology from Stanford University with a focus on the neuroscience of emotions and decision-making. His research applies lessons from psychology and neuroscience to better understanding consumer behavior and market outcomes.
